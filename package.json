@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-nodejs",
+  "version": "1.0.0",
+  "description": "Dummy app using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reisbel/azure-devops-yaml.git"
+  },
+  "author": "Reisbel Machado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reisbel/azure-devops-yaml/issues"
+  },
+  "homepage": "https://github.com/reisbel/azure-devops-yaml#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
